@@ -44,8 +44,6 @@ public class AutoSuggestDropdown {
 		Thread.sleep(1000);
 
 		
-		Thread.sleep(5000);
-		driver.close();
 	}
 }
 
